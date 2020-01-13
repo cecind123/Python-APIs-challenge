@@ -14,3 +14,7 @@ From there, I built a series of scatter plots to showcase the following relation
     -Cloudiness (%) vs. Latitude
     -Wind Speed (mph) vs. Latitude
 
+
+In the event that my Jupyter Lab file does not load or view properly inside of Github, please use this link to view my file directly.
+
+https://nbviewer.jupyter.org/github/cecind123/Python-APIs-challenge/blob/master/WeatherPy/Tipton_WeatherPy.ipynb
